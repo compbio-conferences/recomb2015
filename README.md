@@ -1,6 +1,6 @@
 # recomb2015
 
-## Some talks, relevent to my personal research:
+## A few selected talks:
 
 - link for accepted talks: http://www.iscb.org/images/stories/recomb-regsysgen2015/Accepted-Oral-Talks-RECOMB-ISCB-RSG-DREAM-2015.pdf
 
